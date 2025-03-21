@@ -7,7 +7,7 @@ function Home(){
      <div>
   <meta charSet="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Badr Nejaa - Web Developer</title>
+  <title>Baa - Web Developer</title>
   <style dangerouslySetInnerHTML={{__html: "\n                @keyframes fadeInUp {\n                    from { opacity: 0; transform: translateY(20px); }\n                    to { opacity: 1; transform: translateY(0); }\n                }\n                .animate-fade-in-up {\n                    animation: fadeInUp 0.6s ease-out forwards;\n                }\n                .transition-transform {\n                    transition-property: transform;\n                    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n                    transition-duration: 150ms;\n                }\n            " }} />
   <header className="bg-white dark:bg-gray-800 shadow-md fixed w-full z-10 transition-colors duration-300">
     <nav className="container mx-auto px-6 py-3">
@@ -40,7 +40,7 @@ function Home(){
   </header>
   <main className="container mx-auto px-6 py-20">
     <section id="about" className="mb-20 pt-16 animate-fade-in-up">
-      <h1 className="text-4xl md:text-6xl font-bold mb-4 text-primary-light dark:text-primary-dark">Hi, I'm Badr Nejaa</h1>
+      <h1 className="text-4xl md:text-6xl font-bold mb-4 text-primary-light dark:text-primary-dark">Hi, I'm Manish Basnet</h1>
       <p className="text-xl mb-8">A passionate web developer creating responsive and accessible websites.</p>
       <a href="#contact" className="bg-primary-light dark:bg-primary-dark text-white px-6 py-3 rounded-full font-semibold hover:bg-opacity-90 transition-colors duration-300">Get in touch</a>
     </section>
